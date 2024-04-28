@@ -1,4 +1,4 @@
-# decentralizedcultcommunity
+# decentralizedcultcommunity MVP
 culturebitcoin for first decentralized cultcommunity in the world created by me, Inna Danylevska with AItech 28.04.2024   
 
 # Who we are
