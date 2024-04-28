@@ -77,3 +77,72 @@ The show-project DCC (Decentralized Culture Community) makes no statements regar
 The show-project DCC (Decentralized Culture Community) has not verified any data presented in the show and assumes no responsibility for its accuracy.
 All information on this site has been obtained by the show-project DCC (Decentralized Culture Community) from public sources or from the words of speakers present here and does not provide any assurances or guarantees regarding the accuracy or completeness of this information. None of the decentralized members of the show-project DCC (Decentralized Culture Community), nor any of its members, officers, employees, consultants, or expert participants, shall be liable for any use of the information described and/or contained herein. In no event shall the show-project DCC (Decentralized Culture Community), or its members, officers, employees, or consultants, or expert participants be liable for any direct, indirect, incidental, special, exemplary, or consequential damages arising under any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise), even if advised of the possibility of such damages. This disclaimer extends to any losses and injuries.
 
+
+# **Privacy Policy**
+
+**DCC - decentralizedcultcommunity**
+
+**PRIVACY POLICY**
+
+*Last Updated: April 28, 2024*
+
+This privacy policy (“Policy”) describes how we collect, use, and share personal information of consumer users of this website, www.decentralizedcultcommunity.github.io (the “Site”). This Policy also applies to any of our other websites that post this Policy. This Policy does not apply to websites that post different statements.
+
+**WHAT WE COLLECT**
+
+We collect information about you in a range of ways.
+
+- **Information You Give Us:** We collect your name, email address, username, password, as well as other information you directly give us on our Site.
+
+- **Information We Get From Others:** We may get information about you from other sources. We may add this to information we get from this Site.
+
+- **Information Automatically Collected:** We automatically log information about you and your computer. For example, when visiting our Site, we log your computer operating system type, browser type, browser language, the website you visited before browsing to our Site, pages you viewed, how long you spent on a page, access times, and information about your use of and actions on our Site.
+
+- **Cookies:** We may log information using "cookies." Cookies are small data files stored on your hard drive by a website. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our Site. This type of information is collected to make the Site more useful to you and to tailor the experience with us to meet your special interests and needs.
+
+**USE OF PERSONAL INFORMATION**
+
+We use your personal information as follows:
+
+- We use your personal information to operate, maintain, and improve our sites, products, and services.
+- We use your personal information to process and deliver contest entries and rewards.
+- We use your personal information to respond to comments and questions and provide customer service.
+- We use your personal information to send information including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages.
+- We use your personal information to communicate about promotions, upcoming events, and other news about products and services offered by us and our selected partners.
+- We use your personal information to link or combine user information with other personal information.
+- We use your personal information to protect, investigate, and deter against fraudulent, unauthorized, or illegal activity.
+- We use your personal information to provide and deliver products and services customers request.
+
+**SHARING OF PERSONAL INFORMATION**
+
+We may share personal information as follows:
+
+- We may share personal information with your consent. For example, you may let us share personal information with others for their own marketing uses. Those uses will be subject to their privacy policies.
+- We may share personal information when we do a business deal, or negotiate a business deal, involving the sale or transfer of all or a part of our business or assets. These deals can include any merger, financing, acquisition, or bankruptcy transaction or proceeding.
+- We may share personal information for legal, protection, and safety purposes.
+- We may share information to comply with laws.
+- We may share information to respond to lawful requests and legal processes.
+- We may share information to protect our rights and property, our agents, customers, and others. This includes enforcing our agreements, policies, and terms of use.
+- We may share information in an emergency. This includes protecting the safety of our employees and agents, our customers, or any person.
+- We may share information with those who need it to do work for us.
+- We may also share aggregated and/or anonymized data with others for their own uses.
+
+**INFORMATION CHOICES AND CHANGES**
+
+Our marketing emails tell you how to “opt-out.” If you opt out, we may still send you non-marketing emails. Non-marketing emails include emails about your accounts and our business dealings with you.
+
+You may send requests about personal information to our Contact Information below. You can request to change contact choices, opt-out of our sharing with others, and update your personal information.
+
+You can typically remove and reject cookies from our Site with your browser settings. Many browsers are set to accept cookies until you change your settings. If you remove or reject our cookies, it could affect how our Site works for you.
+
+**CONTACT INFORMATION.** We welcome your comments or questions about this privacy policy. You may also contact us at our address:
+
+*DDC - decentralizedcultcommunity*
+*no one registration address. Addresses are members addresses of DCC deccultcommunity with markdown secure culture phrase.*
+
+**CHANGES TO THIS PRIVACY POLICY.** We may change this privacy policy. If we make any changes, we will change the Last Updated date above.
+
+---
+
+Feel free to adjust the formatting or wording as needed.
+
