@@ -142,7 +142,56 @@ You can typically remove and reject cookies from our Site with your browser sett
 
 **CHANGES TO THIS PRIVACY POLICY.** We may change this privacy policy. If we make any changes, we will change the Last Updated date above.
 
----
 
-Feel free to adjust the formatting or wording as needed.
+# Website Terms of Use
+
+Revised: 28 April 2024
+
+Welcome to the website located at www.decentralizedcultcommunity.github.io (the "Site"). Please read these terms carefully before accessing or using the Site.
+
+## 1. Acceptance of Terms
+By accessing or using the Site, you agree to be bound by these Terms of Use. If you do not agree with all of the provisions of these terms, do not access and/or use the Site.
+
+## 2. Accounts
+- **Account Creation:** To use certain features of the Site, you must register for an account and provide accurate information.
+- **Account Responsibilities:** You are responsible for maintaining the confidentiality of your account information and for all activities that occur under your account.
+
+## 3. Access to the Site
+- **License:** You are granted a limited license to use and access the Site for personal, noncommercial use.
+- **Certain Restrictions:** You may not commercially exploit the Site, modify, or reverse engineer any part of it.
+- **Modification:** We reserve the right to modify, suspend, or discontinue the Site at any time.
+
+## 4. User Content
+- **User Content:** You are solely responsible for any information or content you submit to the Site.
+- **License:** By submitting content, you grant us a license to use and exploit your content.
+- **Acceptable Use Policy:** User content must comply with our Acceptable Use Policy.
+
+## 5. Indemnification
+You agree to indemnify and hold us harmless from any claims arising out of your use of the Site or violation of these Terms.
+
+## 6. Third-Party Links & Ads; Other Users
+- **Third-Party Links & Ads:** We are not responsible for third-party websites or advertisements.
+- **Other Users:** We are not responsible for user-generated content. Your interactions with other users are solely your responsibility.
+
+## 7. Disclaimers
+The Site is provided "as-is" without warranties of any kind. We do not guarantee the accuracy or availability of the Site.
+
+## 8. Limitation on Liability
+We are not liable for any indirect, consequential, or incidental damages arising out of your use of the Site.
+
+## 9. Term and Termination
+These Terms will remain in effect until terminated. We may suspend or terminate your access to the Site at any time.
+
+## 10. Copyright Policy
+We respect copyright law. If you believe any content on the Site infringes your copyright, please contact our designated Copyright Agent.
+
+## 11. General
+- **Changes:** We may revise these Terms from time to time.
+- **Dispute Resolution:** Any disputes will be resolved through binding arbitration.
+- **Entire Terms:** These Terms constitute the entire agreement between you and us.
+
+For any questions or concerns regarding these Terms of Use, please contact us at dcc.decentralizedcultcommunity@gmail.com.
+
+Copyright © 2024 Decentralized Culture Community. All rights reserved.
+
 
