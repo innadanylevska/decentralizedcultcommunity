@@ -1,13 +1,67 @@
 # decentralizedcultcommunity
 culturebitcoin for first decentralized cultcommunity in the world created by me, Inna Danylevska with AItech 28.04.2024   
 
-# stoled by me in my favorite catsite 
+# Who we are
+# this 'culureSecure' phrase stoled by me in my favorite catsite becouse this cs_phrase is proection of my own strong value and first worlwide community ABOUT it   
 "Peace definitely shouldn't revolve solely around money and benefits, but it's long been known that those who make others happy/successful themselves become happier/more successful."
+
+# Registration and Access
+Minimum Age. You must be at least 13 years old or the minimum age required in your country to consent to use the Services. If you are under 18 you must have your parent or legal guardian’s permission to use the Services. 
+
+Registration. You must provide accurate and complete information to register for an account to use our Services. You may not share your account credentials or make your account available to anyone else and are responsible for all activities that occur under your account. If you create an account or use the Services on behalf of another person or entity, you must have the authority to accept these Terms on their behalf.
+
+# Using Our Services
+## What You Can Do. 
+Subject to your compliance with these Terms, you may access and use our Services. In using our Services, you must comply with all applicable laws as well as our Sharing & Publication Policy, Usage Policies, and any other documentation, guidelines, or policies we make available to you. 
+
+## What You Cannot Do. 
+You may not use our Services for any illegal, harmful, or abusive activity. For example, you may not:
+
+Use our Services in a way that infringes, misappropriates or violates anyone’s rights.
+Modify, copy, lease, sell or distribute any of our Services.
+Attempt to or assist anyone to reverse engineer, decompile or discover the source code or underlying components of our Services, including our models, algorithms, or systems (except to the extent this restriction is prohibited by applicable law).
+Automatically or programmatically extract data or Output (defined below).
+Represent that Output was human-generated when it was not.
+Interfere with or disrupt our Services, including circumvent any rate limits or restrictions or bypass any protective measures or safety mitigations we put on our Services.
+Use Output to develop models that compete with show-project DCC(decentralizedcultcommunity:).
+Software. Our Services may allow you to download software, such as mobile applications, which may update automatically to ensure you’re using the latest version. Our software may include open source software that is governed by its own licenses that we’ve made available to you.
+
+Corporate Domains. If you create an account using an email address owned by an organization (for example, your employer), that account may be added to the organization's business account with us, in which case we will provide notice to you so that you can help facilitate the transfer of your account (unless your organization has already provided notice to you that it may monitor and control your account). Once your account is transferred, the organization’s administrator will be able to control your account, including being able to access Content (defined below) and restrict or remove your access to the account. 
+
+Third Party Services. Our services may include third party software, products, or services, (“Third Party Services”) and some parts of our Services, like our browse feature, may include output from those services (“Third Party Output”). Third Party Services and Third Party Output are subject to their own terms, and we are not responsible for them. 
+
+Feedback. We appreciate your feedback, and you agree that we may use it without restriction or compensation to you.
+
+# Discontinuation of Services
+We may decide to discontinue our Services and if we do, we will not give you advance notice about.
+
+# Content - stop propaganda
+Random 'culture-secure best phrases from national songs for your ethical content in the digital simulation like footprint with inheritance for the future'    
+
+# Our IP Rights
+We and our affiliates own all rights, title, and interest in and to the Services. You may only use our name and logo in accordance with our Brand Guidelines.
+
+# Termination and Suspension
+Termination. You are free to stop using our Services at any time. We reserve the right to suspend or terminate your access to our Services or delete your account if we determine:
+
+You breached these Terms or our Usage Policies.
+We must do so to comply with the law.
+Your use of our Services could cause risk or harm to DCC(decentralizedcultcommunity:), our users, or anyone else.
+We also may terminate your account if it has been inactive for over a year and you do not have a paid account. If we do, we will provide you with advance notice.
+
+Appeals. If you believe we have suspended or terminated your account in error, you can file an appeal with us by contacting our Support team.
+
+# Indemnity
+No nothing from us
+
+# Dispute Resolution
+We are right always
+
 
 # Certainly! Here's a suggested README file template for a decentralized community, incorporating the attributes we discussed:
 
-```
-# Decentralized Community README
+
+# Decentralized Community 
 
 Welcome to our decentralized community! We're thrilled to have you here. Below, you'll find information about who we are, what we stand for, and how you can get involved.
 
